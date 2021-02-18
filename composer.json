@@ -1,5 +1,5 @@
 {
-    "name": "staudenmeir/eloquent-has-many-deep",
+    "name": "musoftware/eloquent-has-many-deep",
     "description": "Laravel Eloquent HasManyThrough relationships with unlimited levels",
     "license": "MIT",
     "authors": [
